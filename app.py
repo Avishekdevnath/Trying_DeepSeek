@@ -38,7 +38,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("Hi, from DeepSeek 🧠")
+st.title("Hi, from AviDeepSeek 🧠")
 st.caption("A Coding Assistant For All with Debugging Superpowers. 🚀")
 
 with st.sidebar:
